@@ -222,6 +222,7 @@
   padding-top: 10px;
   padding-bottom: 30px;
   padding: 20px 10px;
+  object-fit:fit-content;
 }
 .pro-3 {
   width: 300px;
